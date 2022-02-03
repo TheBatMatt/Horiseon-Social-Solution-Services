@@ -1,4 +1,5 @@
 /* Universal Styling */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -6,11 +7,13 @@
 }
 
 /* Body Styling */
+
 body {
     background-color: #d9dcd6;
 }
 
 /* Header and Navigation Styling */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,17 +48,20 @@ header div ul li {
 }
 
 /* Anchor Styling */
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
 /* All Paragraph Styling */
+
 p {
     font-size: 19px;
 }
 
 /* Hero Page Styling */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -82,6 +88,7 @@ p {
 }
 
 /* Benefits Section Styling */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -109,7 +116,8 @@ p {
     max-width: 150px;
 }
 
-/* Search Engine, Online Representation an Social Media Styling */
+/* Search Engine, Online Representation and Social Media Styling */
+
 .assistance {
     margin-bottom: 20px;
     padding: 50px;
@@ -129,6 +137,7 @@ p {
 }
 
 /* Footer Styling */
+
 footer {
     padding: 30px;
     clear: both;

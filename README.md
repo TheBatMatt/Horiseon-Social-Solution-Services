@@ -7,4 +7,10 @@ HTML has been ''cleaned up'' and now looks more orderly and easier to read by gi
 
 Added "Horiseon" title to the top of the page.
 
-Consoldated CSS classes  Search Engine, Online Representaton and Social Media to one "section title" class.
+Consoldated classes Search Engine, Online Representaton and Social Media to one "section title" class.
+
+Consolidated Benefits section into an "all-benefits" class.
+
+Consolidated repeating CSS.
+
+

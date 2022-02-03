@@ -6,3 +6,5 @@ HTML has been ''cleaned up'' and now looks more orderly and easier to read by gi
 "Search Engine Optimization" navigation link has been fixed by giving the section the proper "ID".
 
 Added "Horiseon" title to the top of the page.
+
+Consoldated CSS classes  Search Engine, Online Representaton and Social Media to one "section title" class.

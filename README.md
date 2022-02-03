@@ -12,5 +12,5 @@ Consoldated classes Search Engine, Online Representaton and Social Media to one 
 Consolidated Benefits section into an "all-benefits" class.
 
 Consolidated repeating CSS.
-
-
+t
+<div> renamed to <article>

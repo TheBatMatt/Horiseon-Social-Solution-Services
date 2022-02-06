@@ -1,16 +1,15 @@
-# Horiseon-Refactor
-Horiseon Accessibility: Consolidatiing CSS and giving their website accessibility for the purpose of both search engines and to assist those with diabilities.
+# Horiseon Social Services Solutions
 
-HTML has been ''cleaned up'' and now looks more orderly and easier to read by giving each section a comment as to what that area is used for, as well as practiced proper spacing etiquette.
+## Purpose
+To assist with social branding and marketing. All coding has been vastly, creating a semantic experience to allow other developers to more easily read the code. Repeated CSS code has also been consolidated with the the use of classes creating an overall cleaner CSS experience.
 
-"Search Engine Optimization" navigation link has been fixed by giving the section the proper "ID".
+## Built With
+* HTML
+* CSS
 
-Added "Horiseon" title to the top of the page.
+## Website
+https://tedmjablonowski.github.io/Horiseon-Refactor/
 
-Consoldated classes Search Engine, Online Representaton and Social Media to one "section title" class.
+## Contribution
 
-Consolidated Benefits section into an "all-benefits" class.
-
-Consolidated repeating CSS.
-t
-<div> renamed to <article>
+### ©️2019 Horiseon Social Solution Services Inc.
